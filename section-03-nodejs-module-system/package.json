@@ -1,0 +1,14 @@
+{
+  "name": "section-03-nodejs-module-system",
+  "version": "1.0.0",
+  "description": "## Section 03: Node.js Module System (Notes App)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.0.0"
+  }
+}
