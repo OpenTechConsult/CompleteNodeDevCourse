@@ -7,7 +7,7 @@ const notes = getNotes();
 console.log(notes);
 // console.log(validator.isEmail('eagboka@opentechconsult.com'));
 // console.log(validator.isURL('https:/mead.io'));
-console.log(chalk.bold.green('Success!'));
+console.log(chalk.red.inverse.bold('Error!'));
 
 
 
